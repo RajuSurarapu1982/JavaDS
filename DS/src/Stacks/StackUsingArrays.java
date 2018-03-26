@@ -1,5 +1,12 @@
 package Stacks;
 
+/**
+ * @author Raju Surarapu
+ *
+ * github:https://github.com/RajuSurarapu1982
+   Mar 25, 2018
+ */
+
 public class StackUsingArrays {
 
 	private int maxSize;

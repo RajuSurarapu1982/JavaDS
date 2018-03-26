@@ -1,4 +1,10 @@
 package Stacks;
+/**
+ * @author Raju Surarapu
+ *
+ * github:https://github.com/RajuSurarapu1982
+   Mar 25, 2018
+ */
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
